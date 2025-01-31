@@ -10,8 +10,8 @@ Ideal for keeping track of **breaking news** in an organized Notion workspace.
 ## 🛠️ Setup
 1. **Clone** the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/dennikn-notion-sync.git
-cd dennikn-notion-sync
+git clone https://github.com/PatrikKnizka/minute-by-minute-notion.git
+cd minute-by-minute-notion
  ```
 2. Install **dependencies**
  ```bash
